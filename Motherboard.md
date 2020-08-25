@@ -85,7 +85,7 @@ Note (*): Only get these in case you need features from these that aren't found 
 
 With audio, most boards are supported and you can find a more extensive list from [AppleALC](https://github.com/acidanthera/AppleALC/wiki/Supported-codecs) for audio. VoodooHDA is another option for legacy users
 
-**note**: AMD motherboard users will require VoodooHDA if you plan to use the onboard microphone header. Regulkar audio putput works however with AppleALC
+**note**: AMD motherboard users will require VoodooHDA if you plan to use the onboard microphone header. Regular audio output works however with AppleALC
 
 ---
 
